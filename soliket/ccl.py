@@ -26,6 +26,10 @@ case it will be up to the Likelihood to cache the results appropriately itself.
 Note that this approach preclude sharing results other than the cosmo object itself between different likelihoods.
 
 Also note lots of things still cannot be done consistently in CCL, so this is far from general.
+
+April 2021:
+-----------
+Second version by PL. Using CCL's newly implemented cosmology calculator. 
 """
 
 # For Cobaya docs see
